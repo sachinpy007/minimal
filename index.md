@@ -1,21 +1,11 @@
 ---
-layout: default
+Python Full Stack Portfolio
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Django CRUD Application
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rsachink123/Django-Insert-update-delete-display-Project)
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Medicare Voicemail
-
-This project is to handle multiple voicemails coming from users
-
-## Quality Control Dashboard
-This dashboard is for business people who can monitor document processing and model accuracy slong with other parameters.
+<center><img src="images/django.jpg"/></center>
 
 ### Header 3
 
