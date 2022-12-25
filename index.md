@@ -2,10 +2,10 @@
 Python Full Stack Portfolio
 ---
 
-## Django CRUD Application
+### Django CRUD Application
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/rsachink123/Django-Insert-update-delete-display-Project)
 
-<center><img src="images/django.jpg"/></center>
+<center><img src="assets/img/django.jpg"/></center>
 
 ### Header 3
 
