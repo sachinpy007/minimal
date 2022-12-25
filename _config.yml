@@ -1,6 +1,16 @@
-title: Sachin Kumar Kesharwani
+title: <p align="center"> Sachin Kumar Kesharwani </p>
 logo: /assets/img/logoo.png
-description: Python Full Stack Developer
+description: 
+<p align="center">
+#   <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://in.linkedin.com/in/sachin-kesharwani-879945122">LinkedIn</a> |
+  <a href="https://github.com/sachinpy007">GitHub</a>
+  
+  <br>   
+  I'm working as Python Full Stack Developer.
+  Also handing the AI/ML relateed work.
+  <br>
+</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
